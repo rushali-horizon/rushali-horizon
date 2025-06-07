@@ -10,7 +10,7 @@
 
 
 ```js
-//hali.exe
+//
 const identity = {
     name: "hali",
     field: ["chaos"],
