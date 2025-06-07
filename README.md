@@ -1,4 +1,4 @@
-<h1 align="center">🕳️ Rushali.exe</h1>
+<h1 align="center">🕳️ hali.exe</h1>
 <p align="center"><i>glitched in transit | still compiling | forever in chaos</i></p>
 ---
 
@@ -16,16 +16,7 @@ const identity = {
     field: ["chaos"],
     status: "undefined but compiling...",
 };
-
-function main() {
-    console.log("Hello, world?");
-    initiate("coffee");
-    while (!burnout) {
-        explore("ideas");
-        build("something strange");
-        breakRules();
-    }
-    shutdown("4:17am");
+    
 }
 
 main();
