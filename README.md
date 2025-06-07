@@ -13,9 +13,5 @@ const identity = {
     status: "undefined but compiling...",
 };
     
-}
-
-main();
-
 // 🕳️ Peek into the repos, but beware — not everything is as it seems.
 
