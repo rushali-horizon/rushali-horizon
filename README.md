@@ -10,7 +10,6 @@
 
 
 ```js
-//
 const identity = {
     name: "hali",
     field: ["chaos"],
